@@ -1,1 +1,3 @@
 # Hardeep's Notes
+## Summary
+This repository contains all of the notes taken by [Hardeep](https://github.com/aulakhhardeep) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
