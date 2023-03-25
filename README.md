@@ -1,1 +1,1 @@
-# [Hardeep]'s Notes
+# Hardeep's Notes
